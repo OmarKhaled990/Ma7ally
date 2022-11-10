@@ -1,5 +1,4 @@
-# Ma7ally
-We Introduced a project to solve Customers issues with Egyptian Local brands.
+
 # Problem Statement
 Nowadays, it is no secret that the Economy has been heavily impacted by the
 restrictions on the import business in Egypt which has affected the
