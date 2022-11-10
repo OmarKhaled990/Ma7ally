@@ -12,7 +12,7 @@ So we had to come with a solution to help customers gaining trust once again to 
 Ma7ally is a software application that gathers Egyptian Local Brands in one place and gives a unique shopping Experience via VR technology, Every shop will have It's own virtual shop to list their products through the VR shop or the common way of buying.
 We gurentee the Quality of the local brands on our application and the Easy UX to help customers buying from local brands.    
 # Project Files Description
-we Uploaded a :
+we Uploaded a :  
 1- VR Demo Video to show how VR works on our app.  
 2- UI/UX Demo Video to illustrate how the app works.  
 3- Our Business Model Canva.
