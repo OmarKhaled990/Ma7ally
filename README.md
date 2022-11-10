@@ -15,13 +15,13 @@ We gurentee the Quality of the local brands on our application and the Easy UX t
 we Uploaded a :  
 1- VR Demo Video to show how VR works on our app.  
 2- UI/UX Demo Video to illustrate how the app works.  
-3- Our Business Model Canva.
+3- Our Business Model Canva.  
 4- Our Software Technical Architecture.  
 # Who are We?
 we are a team of Dell Technologies Summer Academy interns, We worked to develop a solution to a real life problem.  
 TEAM:  
-1- Mario Medhat
-2- Nada Samy
-3- Hala Medhat
-4- Omar Khaled (ME)
+1- Mario Medhat  
+2- Nada Samy  
+3- Hala Medhat  
+4- Omar Khaled (ME)  
 
